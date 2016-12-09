@@ -7,3 +7,6 @@ mvn compile
 
 
 mvn exec:java -Dexec.mainClass="com.wyc.Exam_12709_20161209_3.App"
+
+
+按照提示输入即可
